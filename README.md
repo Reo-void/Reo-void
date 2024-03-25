@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reo
 - 👀 I’m interested in game development 
-- 🌱 I’m currently learning to improve my knowledge on c++
+- 🌱 I’m currently learning to improve my knowledge on c++, web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
